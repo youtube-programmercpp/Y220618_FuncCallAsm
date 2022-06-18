@@ -1,0 +1,12 @@
+_TEXT SEGMENT
+
+SampleAsm PROC
+
+	RET
+
+
+SampleAsm ENDP
+
+_TEXT ENDS
+
+END
